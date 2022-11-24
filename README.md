@@ -20,4 +20,4 @@
 
 🎨 https://www.figma.com/file/VbqQ3nL8yDn4oT3NnsuJJZ/Untitled?node-id=0%3A1&t=CIuARCmQPoUPwyT6-1
 
-![gifmock](https://user-images.githubusercontent.com/27564790/203787427-5248cca7-6020-4b17-aef1-daf2a68d00d3.gif)
+![gif](https://user-images.githubusercontent.com/27564790/203788241-d61681f4-8396-4b2e-b752-7b099f13315e.gif)
